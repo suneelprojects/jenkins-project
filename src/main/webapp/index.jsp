@@ -12,5 +12,8 @@
 <h1 style="font-weight: bold; color: green; font-size: 30px; text-align: center;">
     We have successfully completed Jenkins Free Style Deployment!!!
 </h1>
+<h1 style="font-weight: bold; color: purple; font-size: 30px; text-align: center;">
+    Automation is Working!!!
+</h1>
 </body>
 </html>
