@@ -18,5 +18,8 @@
 <h1 style="font-weight: bold; color: blue; font-size: 30px; text-align: center;">
     We have setup Nexus Successfully!!
 </h1>
+<h1 style="font-weight: bold; color: green; font-size: 30px; text-align: center;">
+    We are saving Artifacts, so that We can Roll Back Easily
+</h1>
 </body>
 </html>
