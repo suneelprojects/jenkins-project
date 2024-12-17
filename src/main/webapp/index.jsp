@@ -12,5 +12,8 @@
 <h1 style="font-weight: bold; color: red; font-size: 30px; text-align: center;">
     We have completed Jenkins FreeStyle Successfully
 </h1>
+<h1 style="font-weight: bold; color: red; font-size: 30px; text-align: center;">
+    We have setup Automation through Webhooks
+</h1>
 </body>
 </html>
