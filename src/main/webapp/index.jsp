@@ -18,5 +18,8 @@
 <h1 style="font-weight: bold; color: purple; font-size: 30px; text-align: center;">
     Nexus Setup is Done!!
 </h1>
+<h1 style="font-weight: bold; color: red; font-size: 30px; text-align: center;">
+    Successfully Uploading Artifacts!!
+</h1>
 </body>
 </html>
