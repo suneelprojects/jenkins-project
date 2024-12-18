@@ -18,5 +18,8 @@
 <h1 style="font-weight: bold; color: blue; font-size: 30px; text-align: center;">
     We have setup Nexus Repository Successfully!!!
 </h1>
+<h1 style="font-weight: bold; color: blue; font-size: 30px; text-align: center;">
+    We have saving Artifacts Successfully!!!
+</h1>
 </body>
 </html>
