@@ -18,8 +18,8 @@
 <h1 style="font-weight: bold; color: blue; font-size: 30px; text-align: center;">
     Jenkins Webhook Trigger works
 </h1>
-<h1 style="font-weight: bold; color: blue; font-size: 30px; text-align: center;">
-   My Tomcat App server is running fine. 
+<h1 style="font-weight: bold; color: pink; font-size: 30px; text-align: center;">
+   Hello everyone
 </h1>
 </body>
 </html>
