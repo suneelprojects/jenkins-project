@@ -15,5 +15,8 @@
 <h1 style="font-weight: bold; color: red; font-size: 30px; text-align: center;">
     We have setup Automation through Webhooks
 </h1>
+<h1 style="font-weight: bold; color: blue; font-size: 30px; text-align: center;">
+    We have setup Nexus Repository Successfully!!!
+</h1>
 </body>
 </html>
