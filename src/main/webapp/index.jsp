@@ -16,7 +16,7 @@
     We have setup Automation through Webhooks
 </h1>
 <h1 style="font-weight: bold; color: blue; font-size: 30px; text-align: center;">
-    We have setup Nexus Successfully!!
+    Jenkins Webhook Trigger works
 </h1>
 </body>
 </html>
