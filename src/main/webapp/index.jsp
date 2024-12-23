@@ -12,4 +12,7 @@
 <h1 style="font-weight: bold; color: orange; font-size: 30px; text-align: center;">
     Let's Setup Naxus
 </body>
+<h1 style="font-weight: bold; color: orange; font-size: 30px; text-align: center;">
+    Nexus Setup Done successfully.
+</body>
 </html>
