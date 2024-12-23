@@ -15,4 +15,7 @@
 <h1 style="font-weight: bold; color: orange; font-size: 30px; text-align: center;">
     Nexus Setup Done successfully.
 </body>
+<h1 style="font-weight: bold; color: green; font-size: 30px; text-align: center;">
+    Hello World !!
+</body>
 </html>
