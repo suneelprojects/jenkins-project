@@ -21,5 +21,8 @@
 <h1 style="font-weight: bold; color: blue; font-size: 30px; text-align: center;">
     We have saving Artifacts Successfully!!!
 </h1>
+<h1 style="font-weight: bold; color: green; font-size: 30px; text-align: center;">
+    We have Succesdfully Completed the Jenkins Concept!!!
+</h1>
 </body>
 </html>
