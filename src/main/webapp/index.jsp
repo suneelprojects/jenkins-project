@@ -410,16 +410,16 @@
           </div>
         </div>
 
-        <!-- <div class="status-section">
+        <div class="status-section">
           <h3>Maven Configuration</h3>
           <div class="status-item">
-            <div class="date">March 16, 2024</div>
-            <div class="content">Created pom.xml with initial dependencies</div>
-            <span class="tag">In Progress</span>
+            <div class="date">April 18, 2025</div>
+            <div class="content">Successfully Completed Jenkins END to END Project</div>
+            <span class="tag">Complete</span>
           </div>
         </div>
 
-        <div class="status-section">
+       <-- <div class="status-section">
           <h3>Jenkins Pipeline</h3>
           <div class="status-item">
             <div class="date">March 16, 2024</div>
