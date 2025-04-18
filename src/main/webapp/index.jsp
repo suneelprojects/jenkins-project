@@ -401,13 +401,13 @@
             </div>
             <span class="tag">Process</span>
           </div>
-          <!-- <div class="status-item">
-            <div class="date">March 15, 2024</div>
+          <div class="status-item">
+            <div class="date">April 18, 2025</div>
             <div class="content">
-              Set up GitHub repository and configured remote origin
+              Successfully Test Our Code using SonarQube
             </div>
             <span class="tag">Completed</span>
-          </div> -->
+          </div>
         </div>
 
         <!-- <div class="status-section">
