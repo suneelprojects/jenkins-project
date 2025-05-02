@@ -409,45 +409,6 @@
             <span class="tag">Completed</span>
           </div>
         </div>
-
-        <div class="status-section">
-          <h3>Maven Configuration</h3>
-          <div class="status-item">
-            <div class="date">April 18, 2025</div>
-            <div class="content">Successfully Completed Jenkins END to END Project</div>
-            <span class="tag">Complete</span>
-          </div>
-        </div>
-
-       <-- <div class="status-section">
-          <h3>Jenkins Pipeline</h3>
-          <div class="status-item">
-            <div class="date">March 16, 2024</div>
-            <div class="content">
-              Created Jenkinsfile with basic pipeline stages
-            </div>
-            <span class="tag">In Progress</span>
-          </div>
-        </div>
-
-        <div class="status-section">
-          <h3>Infrastructure Setup</h3>
-          <div class="status-item">
-            <div class="date">March 17, 2024</div>
-            <div class="content">
-              Created initial Ansible playbook for server configuration
-            </div>
-            <span class="tag">Pending</span>
-          </div>
-          <div class="status-item">
-            <div class="date">March 17, 2024</div>
-            <div class="content">
-              Drafted Dockerfile for application containerization
-            </div>
-            <span class="tag">Pending</span>
-          </div>
-        </div>
-      </div> -->
     </div>
   </body>
 </html>
