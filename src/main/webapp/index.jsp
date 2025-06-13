@@ -317,7 +317,7 @@
             </div>
             <div class="roadmap-content">
               <h3>Jenkins</h3>
-              <span class="ribbon pending">Pending</span>
+              <span class="ribbon pending">Process</span>
 
               <p>
                 Continuous Integration/Continuous Deployment, Pipeline as Code,
@@ -395,12 +395,12 @@
         <div class="status-section">
           <h3>Jenkins Project</h3>
           <div class="status-item">
-            <div class="date">April 17, 2025</div>
+            <div class="date">June 13, 2025</div>
             <div class="content">
              Currently working on Jenkins
             </div>
             <span class="tag">Process</span>
-          </div>
+          <!-- </div>
           <div class="status-item">
             <div class="date">April 18, 2025</div>
             <div class="content">
@@ -408,7 +408,7 @@
             </div>
             <span class="tag">Completed</span>
           </div>
-        </div>
+        </div> -->
     </div>
   </body>
 </html>
