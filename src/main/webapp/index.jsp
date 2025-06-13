@@ -409,7 +409,6 @@
             <span class="tag">Completed</span>
           </div>
         </div>
-    </div>
 <div class="status-item">
             <div class="date">June 13, 2025</div>
             <div class="content">
@@ -418,6 +417,7 @@
             <span class="tag">Completed</span>
           </div>
         </div>
+    </div>
     </div>
   </body>
 </html>
