@@ -417,14 +417,6 @@
             <span class="tag">Completed</span>
           </div>
         </div>
-<div class="status-item">
-            <div class="date">June 16, 2025</div>
-            <div class="content">
-              Successfully Integrated Nexus to Jenkins
-            </div>
-            <span class="tag">Completed</span>
-          </div>
-        </div>
     </div>
     </div>
   </body>
