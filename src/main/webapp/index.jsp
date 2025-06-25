@@ -417,14 +417,6 @@
             <span class="tag">Completed</span>
           </div>
         </div>
-<div class="status-item">
-            <div class="date">June 25, 2025</div>
-            <div class="content">
-              Successfully Integrated and Tested SonarQube with Jenkins
-            </div>
-            <span class="tag">Completed</span>
-          </div>
-        </div>
     </div>
     </div>
   </body>
