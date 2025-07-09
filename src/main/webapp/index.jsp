@@ -395,12 +395,20 @@
         <div class="status-section">
           <h3>Jenkins Project</h3>
           <div class="status-item">
-            <div class="date">June 13, 2025</div>
+            <div class="date">July 9, 2025</div>
             <div class="content">
              Currently working on Jenkins
             </div>
             <span class="tag">Process</span>
           </div>
+        <div class="status-item">
+            <div class="date">July 9, 2025</div>
+            <div class="content">
+              Successfully Configured Tomcat App Server
+            </div>
+            <span class="tag">Completed</span>
+          </div>
+        </div>
     </div>
     </div>
   </body>
